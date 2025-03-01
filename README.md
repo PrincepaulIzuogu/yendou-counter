@@ -6,21 +6,24 @@ This is a simple counter application built with TypeScript, React, and Chakra UI
 
 Follow these steps to set up and run the project.
 
-1. Clone the Repository:
+### 1. Clone the Repository:
+```bash
    git clone https://github.com/PrincepaulIzuogu/yendou-counter.git
    cd yendou-counter
 
-2. Install Dependencies:
+### 2. Install Dependencies:
    Ensure you have Node.js installed. Then, run:
+```bash
    npm install
 
-3. Start the Development Server:
+### 3. Start the Development Server:
    To run the application in development mode:
+```bash
    npm run dev
    or
    npm start
 
-4. Open in Browser:
+#### 4. Open in Browser:
    Open your browser and go to:
    http://localhost:3000
 
