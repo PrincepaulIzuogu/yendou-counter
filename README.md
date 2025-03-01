@@ -8,24 +8,27 @@ Follow these steps to set up and run the project.
 
 ### 1. Clone the Repository:
 ```bash
-   git clone https://github.com/PrincepaulIzuogu/yendou-counter.git
-   cd yendou-counter
+git clone https://github.com/PrincepaulIzuogu/yendou-counter.git
+cd yendou-counter
+```
 
 ### 2. Install Dependencies:
-   Ensure you have Node.js installed. Then, run:
+Ensure you have Node.js installed. Then, run:
 ```bash
-   npm install
+npm install
+```
 
 ### 3. Start the Development Server:
-   To run the application in development mode:
+To run the application in development mode:
 ```bash
-   npm run dev
+npm run dev
    or
-   npm start
+npm start
+```
 
-#### 4. Open in Browser:
-   Open your browser and go to:
-   http://localhost:3000
+### 4. Open in Browser:
+Open your browser and go to:
+http://localhost:3000
 
 ## Project Features
 
@@ -47,10 +50,10 @@ Follow these steps to set up and run the project.
 - `README.md`: Documentation for the project.
 - `.gitignore`: Ensures unnecessary files are not pushed to GitHub.
 
-
 ## Built With
 
 - React + TypeScript
 - Chakra UI
 - Context API for global state management
+
 
