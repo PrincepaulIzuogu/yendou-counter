@@ -1,0 +1,27 @@
+/* Full-page centering */
+.counter-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;  /* Take up full viewport height */
+    width: 100vw;   /* Take up full viewport width */
+    background-color: #ffff; /* Optional background for better visibility */
+}
+
+/* Counter text and button container */
+.counter-content {
+    text-align: center;
+}
+
+/* Counter Value */
+.counter-value {
+    font-size: 28px;
+    color: black;
+    margin-bottom: 20px;
+}
+
+/* Button */
+.counter-button {
+    font-size: 20px;
+    padding: 10px 20px;
+}
